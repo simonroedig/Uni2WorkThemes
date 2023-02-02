@@ -1,0 +1,28 @@
+/*
+* {
+    --color-primary: #000000;
+    --color-light: #000000;
+    --color-lighter: #000000;
+    --color-dark: #3b3b3b;
+    --color-darker: #000000;
+}
+
+*::-webkit-scrollbar {
+    width: 12px;               
+}
+  
+*::-webkit-scrollbar-track {
+    background: rgb(64, 64, 64);           
+}
+  
+*::-webkit-scrollbar-thumb {
+    background: rgb(166, 166, 166);         
+}
+
+*::-webkit-scrollbar-thumb:hover {
+    background: rgb(202, 202, 202);         
+}
+*/
+
+
+

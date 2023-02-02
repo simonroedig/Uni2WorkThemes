@@ -1,0 +1,41 @@
+h1 {
+    font-family: filmotype-maxwell, sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: xx-large;
+    text-align: center;
+}
+
+h2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: large;
+    white-space: nowrap;
+}
+
+.radioText {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: medium;
+}
+
+#popUpDiv {
+    padding: 10px;
+}
+
+p, p a {
+    font-style: italic;
+    color: black;
+}
+
+p {
+    text-align: center;
+}
+
+#popUpDiv {
+    background-image: url("water.png");
+    background-repeat: repeat;
+    background-size: cover;
+}

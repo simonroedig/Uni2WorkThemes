@@ -1,0 +1,27 @@
+.navbar {
+    background-image: linear-gradient(132deg, #F4D03F 0%, #16A085 100%);
+}
+
+* {
+    --color-primary: #F4D03F;
+    --color-light: #16A085;
+    --color-lighter: #16A085;
+    --color-dark: #16A085;
+    --color-darker: #16A085;
+}
+
+*::-webkit-scrollbar {
+    width: 12px;               
+}
+  
+*::-webkit-scrollbar-track {
+    background: rgb(64, 64, 64);           
+}
+  
+*::-webkit-scrollbar-thumb {
+    background: linear-gradient(132deg, #d7c16a 0%, #4bc6ad 100%);     
+}
+
+*::-webkit-scrollbar-thumb:hover {
+    background: linear-gradient(132deg, #F4D03F 0%, #16A085 100%);      
+}

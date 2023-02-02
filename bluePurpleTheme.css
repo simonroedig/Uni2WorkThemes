@@ -1,0 +1,27 @@
+.navbar {
+    background-image: linear-gradient(225deg, #FF3CAC 0%, #784BA0 50%, #2B86C5 100%);
+}
+
+* {
+    --color-primary: #FF3CAC; /*Icon Hover Farbe*/
+    --color-light: #2B86C5;
+    --color-lighter: #2B86C5;
+    --color-dark: #FF3CAC; /*kleine Nav, Logo, etc. Farbe*/
+    --color-darker: #2B86C5;
+}
+
+*::-webkit-scrollbar {
+    width: 12px;               
+}
+  
+*::-webkit-scrollbar-track {
+    background: rgb(64, 64, 64);           
+}
+  
+*::-webkit-scrollbar-thumb {
+    background: linear-gradient(225deg, #ff74c3 0%, #906daf 50%, #5e96be 100%);  
+}
+
+*::-webkit-scrollbar-thumb:hover {
+    background: linear-gradient(225deg, #FF3CAC 0%, #784BA0 50%, #2B86C5 100%);     
+}
