@@ -1,3 +1,6 @@
+![Extension Screenshot](screenshot.png)
+
+
 The main platform most students use at the University Of Munich is Uni2Work. During pride-season I noticed students talking about the fact that Uni2Work doesn't appear in a pride-theme with the typical rainbow flag as other websites do during that time. 
 As Uni2Works' design is merely a rather monotonous green I decided to programm a general browser extension for chromium which lets users select different themes for this webpage including a pride-theme. After some research on how browser extensions work I finished programming "Uni2WorkThemes" and published the extension in the chrome web store for other students to use.
 
