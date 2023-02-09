@@ -1,3 +1,6 @@
+# Uni2WorkThemes
+> Chrome extension to set colorful themes
+
 ![Extension Screenshot](screenshot.png)
 
 
